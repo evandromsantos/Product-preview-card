@@ -138,12 +138,6 @@ h1 {
     }
 }
 
-@media (max-width: 375px) {
-    .description {
-        min-height: 380px;
-    }
-}
-
 @media (max-width: 280px) {
     .card {
         min-width: 240px;
