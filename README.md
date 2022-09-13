@@ -1,2 +1,2 @@
 # Product-preview-card
- cartão de visualização do produto - Mentor Frontend
+ cartão de visualização do produto - Frontend Mentor
